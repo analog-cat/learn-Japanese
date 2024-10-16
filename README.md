@@ -9,4 +9,4 @@ Please put the mlapp file and xlsx file under one folder
 Future udpades will include function of assigning probability weight to every word based on the false times
 Future udpades will include generating check table based on the false time
 
-!img(https://github.com/analog-cat/learn-Japanese/blob/main/image.jpg?raw=true)
+!img(https://github.com/analog-cat/learn-Japanese/blob/main/img.png?raw=true)
